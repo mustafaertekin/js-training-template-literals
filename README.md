@@ -6,4 +6,4 @@ It does'nt matter you read from left-to-right or from up-to-down.
 
 Es ist egal
 
-Try to read !
+https://mustafaertekin.github.io/js-training-template-literals/
